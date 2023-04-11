@@ -150,7 +150,6 @@ aside p {
     padding: 20px 6px;
 }
 #lista{
-    padding-left: 80px;
     list-style-type: '\2714\00A0\00A0';/*emoji de check nos itens da lista*/
     list-style-position: inside;
     columns: 2;
